@@ -48,3 +48,8 @@ pytest -v --html=report.html
 - [ ] Extend and fix the 3 tests from [test_pet.py](test_pet.py#1). There are TODO instructions for each test listed in the file
 - [ ] Create the PATCH test for [test_store.py](test_store.py#1). There are TODO instructions for test along with optional tasks
 - [ ] Take note of any bugs you may have found
+
+### submission notes: venkata_nadimpalli
+
+### completed given three TODO tasks, found bug a in the schemas - name property  updated it's type from int to string(fixed assuming dev updated the schemas)
+### patch method with fixture tried but not sure about it's correctness.
